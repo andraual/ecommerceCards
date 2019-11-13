@@ -11,7 +11,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
+    <title>King of Cards</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
@@ -33,31 +33,31 @@
         <a class="navbar-brand" href="#"><img src="img/crown.png" style="height: 30px"></a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
-          <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
         </button>
       
         <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(página atual)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">MTG</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Yu-gi-oh</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Pokemon</a>
-            </li>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(página atual)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">MTG</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Yu-gi-oh</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Pokemon</a>
+                </li>
+            </ul>
 
-          </ul>
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
-            <button class="btn  my-2 my-sm-0" type="submit">Pesquisar</button>
-          </form>
+            <!--<form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+                <button class="btn  my-2 my-sm-0" type="submit">Pesquisar</button>
+            </form>-->
         </div>
-      </nav>
+    </nav>
 
     <!-- MEU CAROUSEL -->
 

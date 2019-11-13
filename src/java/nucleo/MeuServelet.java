@@ -21,7 +21,7 @@ public class MeuServelet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         
-            response.sendRedirect("exemplo.jsp");
+            response.sendRedirect("cadastro.jsp");
 
         }
     
