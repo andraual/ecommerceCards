@@ -64,7 +64,7 @@
 
         <div class="col-md-1">
             <a href="./cadastro.jsp"><img src="./icons/avatar.png" style="height: 30px; padding-right: 10px" id="cadastro"></a>
-            <a href="./carrinho.jsp"><img src="./icons/cart.png" style="height: 30px" id="cadastro"></a>
+            <a href="./carrinho.jsp"><img src="./icons/cart.png" style="height: 30px" id="cart"></a>
 
         </div>
 
@@ -75,56 +75,19 @@
         
         
         
-        <!--MEU FORMULARIO-->
+        <!--MENSAGEM-->
         
         
         <div class="row">
 		<div class="col-md-12">
-                    <h3 class="text-center" style="padding:50px;">
-				Cadastro de Usuário
-                                <br>        
+                    <h3 class="text-center" style="padding-top:200px;">
+                        <img src="./img/dead-pikachu.gif" style="height: 200px">
+                        <br>
+				ERRO: Desculpe-nos pelo transtorno, estamos trabalhando para melhor atendê-los, tente novamente em segundos.
                     </h3>
                 </div>
         </div>
         
-        <div class="row">
-		<div class="col-md-2">
-		</div>
-		<div class="col-md-8">
-                            
-                        <div class="form-group">
-                            <input type="user" class="form-control" id="inputUser" placeholder="Usuário">
-                            <br>
-                            <input type="email" class="form-control" id="inputEmail" placeholder="Email">
-                            <br>
-                            <input type="pass" class="form-control" id="inputPass" placeholder="Senha">
-                            <br>
-                            <input type="zip" class="form-control" id="inputZip" placeholder="CEP">
-                            <br>
-                            <input type="county" class="form-control" id="inputCounty" placeholder="Municipio">
-                            <br>
-                            <input type="street" class="form-control" id="autocomplete" placeholder="Rua">
-                            <br>
-                            <input type="city" class="form-control" id="inputCity" placeholder="Cidade">
-                            <br>
-                            <input type="state" class="form-control" id="inputState" placeholder="Estado">
-                            <br>
-                            <input type="country" class="form-control" id="inputCountry" placeholder="País">
-                            <br>
-                        </div>
-                        <div class="checkbox">
-                            <label>
-                                    <input type="checkbox" /> Desejo receber as melhores promoções e noticias por e-mail.
-                            </label>
-                        </div> 
-                        <button type="submit" class="btn btn-primary">
-                                Submit
-                        </button>
-            </div>
-            
-		<div class="col-md-2">
-		</div>
-	</div>        
         
         
     </body>
